@@ -1,0 +1,42 @@
+body{
+    background-color: red;
+    font-family: 'Modak', cursive;
+}
+div{
+    background-color: white;
+    margin: auto;
+    width: 700px;
+    padding: 30px;
+    border-radius:50px;
+}
+.heading{
+    width: 100px;
+}
+.header{
+    font-size: 75px;
+}
+.score , .diff{
+    font-size: 50px;
+}
+button{
+padding: 5px;
+margin: 10px;
+border-radius:10px ;
+font-size: 30px;
+font-family: 'Modak', cursive;
+}
+#red{
+    background-color:red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+button:hover{
+    border: 2px solid black;
+}
+#letter{
+    font-size: 250px;
+}
